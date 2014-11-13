@@ -1,0 +1,7 @@
+-difference was highlighted
+-willing to make mistakes and experiment trying out new ways
+-because of the tasks they are used for - programming vs document editing
+-git log gets commit history. git diff shows mods between commits.
+-I can always rollback to an earlier version. deep exploration instead of incremental changes.
+-exploration and project process
+
