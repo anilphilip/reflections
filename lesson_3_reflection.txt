@@ -1,2 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
 to share and collaborate
+why not auto sync?
+because I don't want to be forced to stay current
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks are clones on github. clones are local copies of repositories. branches are local forks off the master.
